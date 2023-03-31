@@ -3,7 +3,7 @@ Hello! EVERYONE
 
 This project was created by Jessica Sepulveda.
 
-Deployed Site: https://latinacommits.github.io/weatherAPI/
+Deployed Site: https://latinacoder.github.io/weatherAPI/
 
 This is an app using the Ionic SDK with Angular Framework. 
 This app was made possible with the help of: Ionic's magnificent documentation and lots of coffee.
